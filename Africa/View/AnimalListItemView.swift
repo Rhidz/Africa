@@ -37,8 +37,7 @@ struct AnimalListItemView: View {
 }
 
 struct AnimalListItemView_Previews: PreviewProvider {
-    static let animals: [Animal] =
-        Bundle.main.decode("animals.json")
+    
     static var previews: some View {
         AnimalListItemView(animal: animals[0]).previewLayout(.sizeThatFits).padding()
     }
