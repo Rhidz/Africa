@@ -6,4 +6,7 @@
 //
 
 import Foundation
+
 let animals: [Animal] = Bundle.main.decode("animals.json")
+
+let videos: [Video] = Bundle.main.decode("videos.json")
