@@ -16,7 +16,7 @@ struct AnimalListItemView: View {
         HStack {
             Image(animal.image)
                 .resizable()
-                .frame(width: 90, height: 90)
+                .frame(width: 100, height: 80)
                 .clipShape(RoundedRectangle(cornerRadius: 12.0))
             
             VStack(alignment: .leading, spacing: 8) {
