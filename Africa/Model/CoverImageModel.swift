@@ -1,13 +1,12 @@
 //
-//  CoverImageModel.swift
-//  Africa
-//
-//  Created by Admin on 15/04/2021.
+//  Created by Robert Petras
+//  SwiftUI Masterclass ♥ Better Apps. Less Code.
+//  https://swiftuimasterclass.com
 //
 
-import Foundation
+import SwiftUI
 
 struct CoverImage: Codable, Identifiable {
-    let id: Int
-    let name: String
+  let id: Int
+  let name: String
 }

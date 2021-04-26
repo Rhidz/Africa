@@ -1,17 +1,16 @@
 //
-//  AfricaApp.swift
-//  Africa
-//
-//  Created by Admin on 14/04/2021.
+//  Created by Robert Petras
+//  SwiftUI Masterclass ♥ Better Apps. Less Code.
+//  https://swiftuimasterclass.com
 //
 
 import SwiftUI
 
 @main
 struct AfricaApp: App {
-    var body: some Scene {
-        WindowGroup {
-            MainView()
-        }
+  var body: some Scene {
+    WindowGroup {
+      MainView()
     }
+  }
 }
