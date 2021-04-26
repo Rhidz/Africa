@@ -8,4 +8,8 @@
 * MapKit
 * UI/UX Design
 
+![](https://github.com/Rhidz/Africa/blob/main/Animation.png)
+![](https://github.com/Rhidz/Africa/blob/main/Video.png)
+![](https://github.com/Rhidz/Africa/blob/main/Animation.png)
+![](https://github.com/Rhidz/Africa/blob/main/Animation.png)
 
